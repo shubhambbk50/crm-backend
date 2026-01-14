@@ -802,5 +802,5 @@ app.get('/api/technician-images/technician/:technician_id', async (req, res) => 
 });
 
 app.listen(PORT, () => {
-  console.log(`Server listening on http://localhost:${PORT}`);
+  console.log(`Server listening on https://crm-backend-zex5.onrender.com`);
 });
