@@ -67,7 +67,7 @@ node scripts/migrations/migrate.js
 cd backend
 npm start
 ```
-Server listens on `http://localhost:4000`.
+Server listens on `https://crm-backend-zex5.onrender.com`.
 
 ## API Endpoints
 
