@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log
+dist/
+build/
+.DS_Store
+uploads/
+coverage/
+logs/
+*.log
+*.sqlite
+*.sqlite3
+.idea/
+.vscode/
